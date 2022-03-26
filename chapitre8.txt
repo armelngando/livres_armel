@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Crétation du chapitre8.txt par armel
+=======
+bonjour chapitre8 modification du collaborateur
+>>>>>>> 5b0e92f9bfd71412f6e50711e44a26b244bbd50d
